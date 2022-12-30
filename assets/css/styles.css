@@ -124,7 +124,7 @@ font-size: 20px;
 }
 
 input {
-width: 90%;
+width: 100%;
 
 }
 
@@ -132,7 +132,7 @@ width: 90%;
     cursor:pointer;
     border: 1px solid;
     height:35px ;
-    width: 93% ;
+    width: 101.5% ;
 
 }
 
